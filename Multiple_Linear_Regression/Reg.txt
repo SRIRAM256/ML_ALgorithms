@@ -1,0 +1,16 @@
+
+
+MIltiple linear regression is a extended version of the SimpleLinear Regression.
+
+here the Features are more , so the weights associated with the features are  more for that we use Matrix representation to minimize the operation.
+this Regression can be solved by Matrix operation.
+
+y=w0+w1x1+w2x2+w3x3.....wnxn
+
+w0->intercept
+w1,w2,w3..wn->coefficients
+W is a matrix that cointains intercept+coeffficients
+
+ultimate goal is to find the Matrix M . 
+refer this link "https://youtu.be/NU37mF5q8VE?si=yRYF9V8dn3HfThXG"
+
